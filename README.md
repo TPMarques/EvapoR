@@ -8,4 +8,4 @@ The present package was developed during internship on Insitute of Calculus at U
 
 # Notes
 
-This package is a test version, it was mainly developed for fastening the process of estimating ETo evapotranspiration for an application of my PhD research, which is in statistics and does not focus in any related field to the subject of the package. I recommend that any use of the following package should be done with cautious, and that I'm not be responsible for any misuse of the following package.  
+This package is a test version, it was mainly developed for fastening the process of estimating ETo evapotranspiration for an application of my PhD research, which is in statistics and does not focus in any related field to the subject of the package. I recommend that any use of the following package should be done with cautious, and inform that I will not assume any responsability for any misuse of the following package. 
