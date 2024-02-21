@@ -1,7 +1,7 @@
 Package: EvapoR
 Type: Package
 Title: Evapotranspiration Calculus
-Version: 0.1.0
+Version: 1.0
 Author: Tiago Pereira Marques
 Maintainer: Tiago Pereira Marques <tiagopm@ime.usp.br>
 Description: Calculates evapotranspiration using PenmanMonteith FAO56 method and required estimates for the method.
