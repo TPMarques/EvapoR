@@ -8,4 +8,4 @@ The present package was developed during internship on Insitute of Calculus at U
 
 # Notes
 
-This package is a test version, it was mainly developed for fastening the process of estimating ETo evapotranspiration for an application of my PhD research (which as not included, since we started working in distinct neural network modelling context). I recommend that any use of the following package should be done with caution since it was not tested adequately, and inform that I will not assume any responsibility for any misuse of the following package. 
+This package is a test version, it was mainly developed for fastening the process of estimating ETo evapotranspiration for an application of my PhD research (which was not included, since we started working in distinct neural network modelling context). I recommend that any use of the following package should be done with caution since it was not tested adequately, and inform that I will not assume any responsibility for any misuse of the following package. 
